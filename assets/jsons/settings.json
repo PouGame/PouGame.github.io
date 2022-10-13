@@ -1,0 +1,18 @@
+[
+    {"name": "sound"},
+    {"name": "music"},
+    {"name": "showControls"},
+    {"name": "language", "data": [
+        {"en": "English"},
+        {"es": "Español"},
+        {"fr": "Français"},
+        {"it": "Italiano"},
+        {"nl": "Nederlands"},
+        {"br": "Português"},
+        {"pl": "Polski"},
+        {"id": "Bahasa Indonesia"},
+        {"tr": "Türk"},
+        {"no": "Norsk"}
+    ], "isMenu": true},
+    {"name": "© 2021 Zakeh Limited\nPou & the Pou logo are trademarks of Zakeh Limited\nAll rights reserved\n\nPublished by Perpetuum Media"}
+]
